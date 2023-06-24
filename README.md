@@ -3,7 +3,7 @@
 ## Sobre Mim
 Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.
 
-![Antonio Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio2812&show_icons=true&theme=dracula)
+![Antonio Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio2812&show_icons=true&theme=omni)
 
 ## Tecnologias que estou estudando e me aperfeiçoando
 
