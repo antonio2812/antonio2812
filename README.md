@@ -32,3 +32,4 @@ Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
 </div>
 
+![snake gif](https://github.com/antonio2812/antonio2812/blob/output/github-contribution-grid-snake.svg)
