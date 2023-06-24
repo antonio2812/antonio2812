@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=false&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Antonio+Carlos;Seja+muito+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF79C6&size=35&center=false&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Antonio+Carlos;Seja+muito+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 ## Sobre Mim
 Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=antonio2812&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Antonio Carlos github stats" />
+![Antonio Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio2812&show_icons=true&theme=omni)
 
 ## Tecnologias que estou estudando e me aperfeiçoando
 
