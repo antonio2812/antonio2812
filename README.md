@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=988BC7&size=35&center=false&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Antonio+Carlos;Seja+muito+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E96379&size=35&center=false&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Antonio+Carlos;Seja+muito+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 ## Sobre Mim
 Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.Testando.
