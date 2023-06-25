@@ -7,7 +7,7 @@ Sou um jovem de 18 anos em busca de experiências profissionais na área de Prog
 
 ![Antonio Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio2812&show_icons=true&theme=omni)
 
-## ⚡  Tecnologias que estou estudando e me aperfeiçoando
+## ⚡  Tecnologias/Ferramentas que estou estudando e me aperfeiçoando
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
