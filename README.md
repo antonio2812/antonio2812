@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=false&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Antonio+Carlos;Seja+muito+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
-## Sobre Mim
+## 👨‍💻  Sobre Mim
 Sou um jovem de 18 anos em busca de experiências profissionais na área de Programação. Atualmente estou estudando e aprendendo constantemente tecnologias voltadas para o Desenvolvimento Web, com o foco de ser Desenvolvedor Full-Stack.
 
 <br/>
 
 ![Antonio Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio2812&show_icons=true&theme=omni)
 
-## Tecnologias que estou estudando e me aperfeiçoando
+## ⚡  Tecnologias que estou estudando e me aperfeiçoando
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -21,7 +21,7 @@ Sou um jovem de 18 anos em busca de experiências profissionais na área de Prog
 
 <br/>
 
-## Você pode entrar em contato comigo através de:
+## 📲  Você pode entrar em contato comigo através de:
 
 <br/>
 
