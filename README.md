@@ -34,3 +34,5 @@ Sou um jovem de 18 anos em busca de experiências profissionais na área de Prog
   <a href="https://www.instagram.com/carlosdesouzajunior.antonio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
 </div>
+
+![Snake animation](https://github.com/antonio2812/antonio2812/blob/output/github-contribution-grid-snake.svg)
