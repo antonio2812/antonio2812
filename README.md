@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=false&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Antonio+Carlos;Seja+muito+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=false&vCenter=true&width=1000&lines=Olá!+Tudo+bem?+Eu+sou+o+Antonio+Carlos;Seja+muito+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 ## 👨‍💻  Sobre Mim
-Sou um jovem de 18 anos em busca de experiências profissionais na área de Programação. Tenho facilidade de aprendizado e atualmente estou estudando e aprendendo constantemente tecnologias voltadas para o Desenvolvimento Web, com o foco de ser Desenvolvedor Full-Stack.
+Sou um jovem de 18 anos em busca de experiências profissionais na área de Programação. Tenho facilidade de aprendizado e resolução de problemas. Atualmente estou estudando e aprendendo constantemente tecnologias voltadas para o Desenvolvimento Web, com o foco de ser Desenvolvedor Full-Stack.
 
 <br/>
 
