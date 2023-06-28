@@ -7,7 +7,7 @@ Sou um jovem de 18 anos de idade em busca de experiências profissionais na áre
 
 ![Antonio Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio2812&show_icons=true&theme=omni)
 
-## ⚡  Tecnologias/Ferramentas que tenho conhecimento e estou aperfeiçoando
+## ⚡  Tecnologias/Ferramentas que tenho conhecimento
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
