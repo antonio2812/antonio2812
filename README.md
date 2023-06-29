@@ -22,6 +22,8 @@ Sou um jovem de 18 anos de idade em busca de experiências profissionais na áre
   <img align="center" alt="windows" src="https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white"/>
 </div>
 
+### Outras Ferramentas
+
 <br/>
 
 ## 📲  Você pode entrar em contato comigo através de:
