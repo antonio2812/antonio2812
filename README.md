@@ -25,6 +25,11 @@ Sou um estudante de 18 anos de idade em busca de experiências profissionais na 
 
 ### Outras Ferramentas
 
+<div style="display: inline_block">
+  <img align="center" alt="adobe photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+  <img align="center" alt="adobe illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+</div>
+
 <br/>
 
 ## 📲  Você pode entrar em contato comigo através de:
