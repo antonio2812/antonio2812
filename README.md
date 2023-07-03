@@ -5,7 +5,7 @@ Sou um estudante de 18 anos de idade em busca de experiências profissionais na 
 
 <br/>
 
-## &#x1f4c8; Estatística do GitHub
+## &#x1f4c8;  Estatística do GitHub
 
 ![Antonio Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio2812&show_icons=true&theme=omni)
 
