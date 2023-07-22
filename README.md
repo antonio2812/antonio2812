@@ -1,13 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=false&vCenter=true&width=1000&lines=Olá!+Tudo+bem?+Eu+sou+o+Antonio+Carlos;Seja+muito+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
-##  Sobre Mim
-👨‍💻   Desenvolvedor Web em Busca de experiências profissionais na área de Programação. Iniciei meus estudos no mundo da programação em 2022. Tenho 18 anos de idade e me reconheço como um Desenvolvedor dedicado em aprender novas tecnologias dia após dia.
+## 👨‍💻  Sobre Mim
+Desenvolvedor Web em Busca de experiências profissionais na área de Programação. Iniciei meus estudos no mundo da programação em 2022. Tenho 18 anos de idade e me reconheço como um Desenvolvedor dedicado em aprender novas tecnologias dia após dia.
 
-⚡   Tenho conhecimento no desenvolvimento web utilizando as tecnologias e Ferramentas: HTML5, CSS3, JavaScript, Bootstrap, JQuery, PHP, SQL , MySQL, Git, GitHub, Adobe Photoshop e Adobe Illustrator.
+Tenho conhecimento no desenvolvimento web utilizando as tecnologias e Ferramentas: HTML5, CSS3, JavaScript, Bootstrap, JQuery, PHP, SQL , MySQL, Git, GitHub, Adobe Photoshop e Adobe Illustrator.
 
-👀   Atualmente estou estudando JavaScript/ReactJS.
+Atualmente estou estudando JavaScript/ReactJS com o objetivo de me especializar no Front-end.
 
-🎯   Tenho o objetivo de me especializar no Front-end.
+Me considero ágil e consistente em aprender uma nova tecnologia e me adaptar à qualquer mudança, pronto para superar qualquer desafio!
+
+Se eu pudesse me definir em 3 palavras, certamente seriam: otimista, perseverante e esforçado! :)
 
 <br/>
 
