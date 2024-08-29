@@ -5,7 +5,7 @@ Desenvolvedor Front-end em Busca de experiências profissionais na área de Prog
 
 Tenho conhecimento no desenvolvimento Front-end utilizando as tecnologias e Ferramentas: HTML5, CSS3, JavaScript, ReactJS, TypeScript, Bootstrap, JQuery, Git, GitHub e Vercel
 
-Meus Diferenciais: Noções de UX/UI Design e Figma, Conhecimento de Inteligências Artificiais para Produtividade e Otimização das Aplicações, PHP, SQL e MySQL
+Meus Diferenciais: Noções de UX/UI Design e Figma, Habilidades com Inteligências Artificiais para Produtividade e Otimização das Aplicações, PHP, SQL e MySQL
 
 Atualmente estou Trabalhando Como Desenvolvedor Freelancer e estudando TypeScript com o objetivo de me especializar no Front-end.
 
