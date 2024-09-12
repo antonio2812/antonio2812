@@ -3,7 +3,7 @@
 ## 👨‍💻  Sobre Mim
 Desenvolvedor Front-end em Busca de experiências profissionais na área de Programação. Iniciei meus estudos no mundo da programação em 2022. Tenho 19 anos de idade e me reconheço como um Desenvolvedor dedicado em aprender novas tecnologias dia após dia.
 
-Tenho conhecimento no desenvolvimento Front-end utilizando as tecnologias e Ferramentas: HTML5, CSS3, JavaScript, ReactJS, TypeScript, Bootstrap, JQuery, Git, GitHub e Vercel
+Tenho conhecimento no desenvolvimento Front-end utilizando as tecnologias e Ferramentas: HTML5, CSS3, JavaScript, ReactJS, TypeScript, Styled-Components, TailwindCSS, Bootstrap, JQuery, Git, GitHub e Vercel
 
 Meus Diferenciais: Noções de UX/UI Design e Figma, Habilidades com Inteligências Artificiais para Produtividade e Otimização das Aplicações, PHP, SQL e MySQL
 
@@ -27,6 +27,8 @@ Se eu pudesse me definir em 3 palavras, certamente seriam: otimista, perseverant
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img align="center" alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img align="center" alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
