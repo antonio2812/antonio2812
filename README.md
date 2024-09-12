@@ -3,7 +3,7 @@
 ## 👨‍💻  Sobre Mim
 Desenvolvedor Front-end em Busca de experiências profissionais na área de Programação. Iniciei meus estudos no mundo da programação em 2022. Tenho 19 anos de idade e me reconheço como um Desenvolvedor dedicado em aprender novas tecnologias dia após dia.
 
-Tenho conhecimento no desenvolvimento Front-end utilizando as tecnologias e Ferramentas: HTML5, CSS3, JavaScript, ReactJS, TypeScript, Styled-Components, TailwindCSS, Bootstrap, JQuery, Git, GitHub e Vercel
+Tenho conhecimento no desenvolvimento Front-end utilizando as tecnologias e Ferramentas: HTML5, CSS3, JavaScript, ReactJS, TypeScript, Styled-Components, TailwindCSS, Bootstrap, Sass, JQuery, Git, GitHub e Vercel
 
 Meus Diferenciais: Noções de UX/UI Design e Figma, Habilidades com Inteligências Artificiais para Produtividade e Otimização das Aplicações, PHP, SQL e MySQL
 
