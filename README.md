@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=false&vCenter=true&width=1000&lines=Olá!+Tudo+bem?+Eu+sou+o+Antonio+Carlos;Seja+muito+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 ## 👨‍💻  Sobre Mim
-Desenvolvedor Front-end em Busca de experiências profissionais na área de Programação. Iniciei meus estudos no mundo da programação em 2022. Tenho 19 anos de idade e me reconheço como um Desenvolvedor dedicado em aprender novas tecnologias dia após dia.
+Desenvolvedor Front-end em Busca de experiências profissionais na área de Programação. Iniciei meus estudos no mundo da programação em 2022. Tenho 20 anos de idade e me reconheço como um Desenvolvedor dedicado em aprender novas tecnologias dia após dia.
 
 Tenho conhecimento no desenvolvimento Front-end utilizando as tecnologias e Ferramentas: HTML5, CSS3, JavaScript, ReactJS, TypeScript, Styled-Components, TailwindCSS, Bootstrap, Sass, JQuery, Git, GitHub e Vercel
 
